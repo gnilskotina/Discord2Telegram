@@ -1,2 +1,2 @@
 # Discord2Telegram
-Forwards messages from Discord to Telegram channel
+##Forwards messages from Discord to Telegram channel
